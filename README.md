@@ -4,4 +4,4 @@ New Version Launch V 1.2.5.1
 * Added InApp Messageing to notify the new updates
 * Fixed known major bugs
 
-***<----Please Update your update your to get new versions--->***
+***<----Please Update your app to get new versions--->***
